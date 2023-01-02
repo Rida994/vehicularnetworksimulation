@@ -1,0 +1,6 @@
+<launch>
+    <copy file="osm.net.xml" />
+    <copy file="osmmap.rou.xml" />
+    <copy file="osm.sumocfg" type="config" />
+</launch>
+
