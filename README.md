@@ -1,0 +1,1 @@
+This repository contains source code to simulate a vehicular network scenario on NS3 and Omnet++. The map is a real life map taken from Bremen Germany and is converted into formats that are supported by the software. 
